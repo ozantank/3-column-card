@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://ozantank.github.io/3-column-preview/](https://ozantank.github.io/3-column-preview/)
+- Live Site URL: [https://ozantank.github.io/3-column-card/](https://ozantank.github.io/3-column-card/)
 
 ## My process
 
